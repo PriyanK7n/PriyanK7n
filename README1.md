@@ -11,7 +11,7 @@
 - 💬 Ask me about anything related to Gans/Pytorch/Python 
 - 📫 How to reach me: 
 [<img align="middle" alt="PriyanK7n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-- ⚡ Fun fact: I :heart: :dog:s;
+- ⚡ Fun fact: I :heart: :dog:s&
               I :heart: :pizza:s
 ### Connect with me:             
 [<img align="left" alt="PriyanK7n | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
