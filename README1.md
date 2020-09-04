@@ -1,27 +1,40 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I opensource stuff and break things :rofl:
+### Hi there, I'm Priyank  - aka [PriyanK7n]
+## I'm a Student, Gamer, Developer, and Blogger!👋
 
+- 🔭 I’m currently working on a Intresting project
+- 🥅 2020 Goals: *Start Blogging 
+                 *Complete and Deploy your Projects 
+                 *Eat , Learn and Move !
+- ⚡ Fun fact: I love to play Games and make ideas a reality
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning AI, ML and Blockchain
-- 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 📫 How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar)
-- ⚡ Fun fact: I :heart: :dog:s
+- 🌱 I’m currently learning AI, ML, DeepLearning , Cloud and Blockchain
+- 💬 Ask me about anything related to Gans/Pytorch/Python 
+- 📫 How to reach me: [@Priyank_aws](https://twitter.com/PNaws_171)
+- ⚡ Fun fact: I :heart: :dog:s;
+              I :heart: :pizza:s
+### Connect with me:             
+[<img align="left" alt="PriyanK7n | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][yutube]
+[<img align="left" alt="PriyanK7n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="PriyanK7n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PriyanK7n | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   2 hrs 6 mins    ██████████▓░░░░░░░░░░░░░░   42.09 % 
+Pytorch   2 hrs 6 mins    ██████████▓░░░░░░░░░░░░░░   42.09 % 
 Other        40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-YAML         29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Python       28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-JSON         25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Python       2 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Numpy         30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 ```
 <!--END_SECTION:waka-->
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+
 <!-- BLOG-POST-LIST:END -->
+
+
