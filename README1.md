@@ -9,7 +9,8 @@
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML, DeepLearning , Cloud and Blockchain
 - 💬 Ask me about anything related to Gans/Pytorch/Python 
-- 📫 How to reach me: [@Priyank_aws](https://twitter.com/PNaws_171)
+- 📫 How to reach me: 
+[<img align="middle" alt="PriyanK7n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 - ⚡ Fun fact: I :heart: :dog:s;
               I :heart: :pizza:s
 ### Connect with me:             
