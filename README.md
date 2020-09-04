@@ -19,7 +19,7 @@
 [<img align="left" alt="PriyanK7n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PriyanK7n | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/PriyanK7n
+[twitter]: https://twitter.com/PriyanK_7n
 [youtube]: https://www.youtube.com/channel/UCB57bZrN3qlNyqaA_g-ML6g
 [instagram]: https://instagram.com/priyank_negi_awesome
 [linkedin]: https://linkedin.com/in/priyank-negi-707019195
