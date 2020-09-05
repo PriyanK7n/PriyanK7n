@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on a Intresting project
 - 🥅 2020 Goals: *Start Blogging
-
                  *Complete and Deploy your Projects 
-                 
                  *Eat , Learn and Move !
 - ⚡ Fun fact: I love to play Games and make ideas a reality
 - 🔭 I’m currently working on something cool :wink:
