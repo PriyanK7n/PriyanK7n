@@ -1,9 +1,12 @@
 ### Hi there, I'm Priyank  - aka [PriyanK7n]
 ## I'm a Student, Gamer, Developer, and Blogger!👋
 
-- 🔭 I’m currently working on a Intresting project
+- 🔭 I’m currently working on a Interesting project on Early Covid Detection using Fast Ai as my weapon 
 - 🥅 2020 Goals: *Start Blogging
-                 *Complete and Deploy your Projects 
+                 *Complete and Deploy your Projects
+                 *Give a Talk Showcasing your project
+                 *Lookforward to your Mental Clarity and Physical health
+                 *Collab with amazing peeps around and Learn great things
                  *Eat , Learn and Move !
 - ⚡ Fun fact: I love to play Games and make ideas a reality
 - 🔭 I’m currently working on something cool :wink:
