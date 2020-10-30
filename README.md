@@ -23,9 +23,9 @@
 [<img align="left" alt="PriyanK7n | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/PriyanK_7n
-[youtube]: https://www.youtube.com/channel/UCB57bZrN3qlNyqaA_g-ML6g
-[instagram]: 
-[linkedin]: https://linkedin.com/in/priyank-negi-707019195
+[youtube]: https://www.youtube.com/channel/UCB57bZrN3qlNyqaA_g-ML6g 
+[linkedin]:https://linkedin.com/in/priyank-negi-70701919
+[instagram]:
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
