@@ -10,7 +10,7 @@
                  *Eat , Learn and Move !
 - ⚡ Fun fact: I love to play Games and make ideas a reality
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning AI, ML, DeepLearning , Cloud and Blockchain
+- 🌱 I’m currently learning AI, ML, DeepLearning, Cloud and NLP
 - 💬 Ask me about anything related to Gans/Pytorch/Python 
 - 📫 How to reach me: 
 [<img align="middle" alt="PriyanK7n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
