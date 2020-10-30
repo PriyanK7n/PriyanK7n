@@ -20,12 +20,11 @@
 [<img align="left" alt="PriyanK7n | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
 [<img align="left" alt="PriyanK7n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="PriyanK7n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="PriyanK7n | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="PriyanK7n | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
 [twitter]: https://twitter.com/PriyanK_7n
 [youtube]: https://www.youtube.com/channel/UCB57bZrN3qlNyqaA_g-ML6g 
 [linkedin]:https://linkedin.com/in/priyank-negi-70701919
-[instagram]:
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
