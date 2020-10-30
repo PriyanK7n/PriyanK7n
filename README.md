@@ -24,7 +24,7 @@
 
 [twitter]: https://twitter.com/PriyanK_7n
 [youtube]: https://www.youtube.com/channel/UCB57bZrN3qlNyqaA_g-ML6g
-[instagram]: https://instagram.com/priyank_negi_awesome
+`[instagram]: 
 [linkedin]: https://linkedin.com/in/priyank-negi-707019195
 
 📊 **This week I spent my time on**
