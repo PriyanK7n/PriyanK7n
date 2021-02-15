@@ -20,6 +20,7 @@
 [<img align="middle" alt="PriyanK7n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="PriyanK7n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+
 - ⚡ Fun fact: I :heart: :dog:s& Entrepeunership
  
 ### Connect with me:             
@@ -32,13 +33,6 @@
 [youtube]: https://www.youtube.com/channel/UCB57bZrN3qlNyqaA_g-ML6g 
 [linkedin]:https://www.linkedin.com/in/priyank-n-707019195
 
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```
-
-```
-
-<!--END_SECTION:waka-->
 
 ### Spotify Playing 🎧
 
