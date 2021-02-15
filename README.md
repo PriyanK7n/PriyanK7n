@@ -3,19 +3,25 @@
 
 - 🔭 I’m currently working on some cool interesting projects involving AI, healthcare & Privacy  
 - 🥅 2021 Goals: *
-                 *Complete and Deploy your Projects
-                 *Give a Talk Showcasing your project
+                 *Finishing Projects End to End
+                 *Collaborate with lots of peeps and explore stuff
+                 *Following Entrepreneurship and Spreading the knowledge
+                 Collab with amazing peeps around and Learn great things
                  *Lookforward to your Mental Clarity and Physical health
-                 *Collab with amazing peeps around and Learn great things
                  *Eat , Learn and Move !
-- ⚡ Fun fact: I love to play Games and make ideas a reality
+
+- ⚡ Fun fact: I love to play Games and make ideas a reality 
+- I beleive in Learning by doing stuff
+- I beleive that the current Education system needs a whole revamp the current metric being used is dated and not an accurate measure of a person's skill and talent
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning AI, ML, DeepLearning, Cloud and NLP
-- 💬 Ask me about anything related to Gans/Pytorch/Python 
+- 🌱 I’m currently pursuing and exploring  AI, ML, DeepLearning, Cloud and NLP
+- 💬 Ask me about anything related to Gans/Pytorch/AI privacy
 - 📫 How to reach me: 
 [<img align="middle" alt="PriyanK7n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-- ⚡ Fun fact: I :heart: :dog:s&
-              I :heart: :pizza:s
+[<img align="left" alt="PriyanK7n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+- ⚡ Fun fact: I :heart: :dog:s& Entrepeunership
+ 
 ### Connect with me:             
 [<img align="left" alt="PriyanK7n | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
 [<img align="left" alt="PriyanK7n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -39,8 +45,22 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Priyank Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-📕 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
+
+
+
+
+📕 **Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+```Blog Post ```- https://priyank7n.github.io/fastblogs/
+
+- [Reproducing Reformer: Our Team Experience](https://priyank7n.github.io/fastblogs/nlp/reformer/transformers/language-modelling/2021/02/11/reformer-reproducibility-challenge.html)		
+ 	
+ - [COVIFY](https://priyank7n.github.io/fastblogs/jupyter/2021/01/20/GUI-Covify.html)	
+ 
+ - [COVID 19 Project](https://priyank7n.github.io/fastblogs/2021/01/27/Covid_19_Project.html)	
+ 
+ - [Data Science & GAN's](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)		
+ <!-- BLOG-POST-LIST:END -->
 
