@@ -33,16 +33,6 @@
 [youtube]: https://www.youtube.com/channel/UCB57bZrN3qlNyqaA_g-ML6g 
 [linkedin]:https://www.linkedin.com/in/priyank-n-707019195
 
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Priyank Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-
-
-
-
-
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
@@ -56,4 +46,16 @@
  
  - [Data Science & GAN's](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)		
  <!-- BLOG-POST-LIST:END -->
+
+
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Priyank Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+
+
+
+
+
 
