@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on some cool interesting projects involving AI, healthcare & Privacy  
 - 🥅 2021 Goals: *
                  *Finishing Projects End to End
-                 *Collaborate with lots of peeps and explore stuff
+                 *Collaborate with lots of peeps and explore stuff and learn great things
                  *Following Entrepreneurship and Spreading the knowledge
-                 Collab with amazing peeps around and Learn great things
-                 *Lookforward to your Mental Clarity and Physical health
+                 *Be organized and investing in soft skills 
+                 *Lookforward to  Mental Clarity and Physical health
                  *Eat , Learn and Move !
 
 - ⚡ Fun fact: I love to play Games and make ideas a reality 
@@ -31,7 +31,7 @@
 [MyBlog]: https://priyank7n.github.io/fastblogs/
 [twitter]: https://twitter.com/PriyanK_7n
 [youtube]: https://www.youtube.com/channel/UCB57bZrN3qlNyqaA_g-ML6g 
-[linkedin]:https://linkedin.com/in/priyank-negi-70701919
+[linkedin]:https://www.linkedin.com/in/priyank-n-707019195
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
