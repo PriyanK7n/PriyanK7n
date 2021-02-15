@@ -1,8 +1,8 @@
 ### Hi there, I'm Priyank  - aka [PriyanK7n]
-## I'm a Student, Gamer, Developer, and Blogger!👋
+## I'm a Student, Gamer, Developer, and a Blogger!👋
 
-- 🔭 I’m currently working on a Interesting project on Early Covid Detection using Fast Ai as my weapon 
-- 🥅 2020 Goals: *Start Blogging
+- 🔭 I’m currently working on some cool interesting projects involving AI, healthcare & Privacy  
+- 🥅 2021 Goals: *
                  *Complete and Deploy your Projects
                  *Give a Talk Showcasing your project
                  *Lookforward to your Mental Clarity and Physical health
@@ -22,18 +22,17 @@
 [<img align="left" alt="PriyanK7n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PriyanK7n | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
+[MyBlog]: https://priyank7n.github.io/fastblogs/
 [twitter]: https://twitter.com/PriyanK_7n
 [youtube]: https://www.youtube.com/channel/UCB57bZrN3qlNyqaA_g-ML6g 
 [linkedin]:https://linkedin.com/in/priyank-negi-70701919
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
-```text
-Fast AI         ██████████████░░░░░░  70.09 % 
-Pytorch         ████████░░░░░░░░░░░░  38.39 % 
-NLP             █████████░░░░░░░░░░░   41.64 % 
-GANs            ███████████████░░░░░  75.43 % 
 ```
+
+```
+
 <!--END_SECTION:waka-->
 
 ### Spotify Playing 🎧
