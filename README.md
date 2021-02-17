@@ -42,8 +42,8 @@
  	
  - [COVIFY(GUI)](https://priyank7n.github.io/fastblogs/jupyter/2021/01/20/GUI-Covify.html)	
  
- - [COVID 19 Project](https://priyank7n.github.io/fastblogs/fastai/2021/01/23/covify-code.html)	
- 
+ - [COVID-19 Infection Detection Using Deep Learning](https://priyank7n.github.io/fastblogs/fastai/2021/01/23/covify-code.html)	
+
  - [Data Science & GAN's](https://priyank7n.github.io/fastblogs/pytorch/2020/09/28/Data-Science-Gans.html)		
  <!-- BLOG-POST-LIST:END -->
 
