@@ -40,7 +40,7 @@
 
 - [Reproducing Reformer: Our Team Experience](https://priyank7n.github.io/fastblogs/nlp/reformer/transformers/language-modelling/2021/02/16/reformer-reproducibility-challenge.html)		
  	
- - [COVIFY(GUI)](https://priyank7n.github.io/fastblogs/jupyter/2021/01/20/GUI-Covify.html)	
+ - [COVIFY(GUI)](https://priyank7n.github.io/fastblogs/2021/01/20/Covify-GUI.html)	
  
  - [COVID-19 Infection Detection Using Deep Learning](https://priyank7n.github.io/fastblogs/fastai/2021/01/23/covify-code.html)	
 
