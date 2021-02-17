@@ -38,13 +38,13 @@
 <!-- BLOG-POST-LIST:START -->
 ```Blog Post ```- https://priyank7n.github.io/fastblogs/
 
-- [Reproducing Reformer: Our Team Experience](https://priyank7n.github.io/fastblogs/nlp/reformer/transformers/language-modelling/2021/02/11/reformer-reproducibility-challenge.html)		
+- [Reproducing Reformer: Our Team Experience](https://priyank7n.github.io/fastblogs/nlp/reformer/transformers/language-modelling/2021/02/16/reformer-reproducibility-challenge.html)		
  	
- - [COVIFY](https://priyank7n.github.io/fastblogs/jupyter/2021/01/20/GUI-Covify.html)	
+ - [COVIFY(GUI)](https://priyank7n.github.io/fastblogs/jupyter/2021/01/20/GUI-Covify.html)	
  
- - [COVID 19 Project](https://priyank7n.github.io/fastblogs/2021/01/27/Covid_19_Project.html)	
+ - [COVID 19 Project](https://priyank7n.github.io/fastblogs/fastai/2021/01/23/covify-code.html)	
  
- - [Data Science & GAN's](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)		
+ - [Data Science & GAN's](https://priyank7n.github.io/fastblogs/pytorch/2020/09/28/Data-Science-Gans.html)		
  <!-- BLOG-POST-LIST:END -->
 
 
