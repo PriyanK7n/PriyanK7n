@@ -31,7 +31,7 @@
 [MyBlog]: https://priyank7n.github.io/fastblogs/
 [twitter]: https://twitter.com/PriyanK_7n
 [youtube]: https://www.youtube.com/channel/UCB57bZrN3qlNyqaA_g-ML6g 
-[linkedin]:https://www.linkedin.com/in/priyank-n-707019195
+[linkedin]:https://www.linkedin.com/in/priyank-negi-707019195
 
 📕 **Latest Blog Posts**
 
