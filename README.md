@@ -38,7 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 ```Blog Post ```- https://priyank7n.github.io/fastblogs/
 
-- [Reproducing Reformer: Our Team Experience](https://priyank7n.github.io/fastblogs/nlp/reformer/transformers/language-modelling/2021/02/16/reformer-reproducibility-challenge.html)		
+- [Reproducing Reformer: Our Team Experience](https://priyank7n.github.io/fastblogs/nlp/reformer/transformers/language-modelling/2021/02/19/reformer-reproducibility-challenge.html)		
  	
  - [COVIFY(GUI)](https://priyank7n.github.io/fastblogs/2021/01/20/Covify-GUI.html)	
  
