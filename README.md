@@ -36,7 +36,7 @@
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-```Blog Post ```- https://priyank7n.github.io/fastblogs/
+```Blog Post ```- https://priyank7n.me
 
 - [Reproducing Reformer: Our Team Experience](https://priyank7n.github.io/fastblogs/nlp/reformer/transformers/language-modelling/2021/02/19/reformer-reproducibility-challenge.html)		
  	
