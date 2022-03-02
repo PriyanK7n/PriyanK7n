@@ -1,27 +1,27 @@
-### Hi there, I'm Priyank  - aka [PriyanK7n]
-## I'm a Student, Gamer, Developer, and a Blogger!👋
+### Hi there, I’m Priyank  - aka [PriyanK7n]
+## I’m a Student, Gamer, Developer, and a Blogger!👋
 
 - 🔭 I’m currently working on some cool interesting projects involving AI, healthcare & Privacy  
-- 🥅 2021 Goals: *
-                 *Finishing Projects End to End
-                 *Collaborate with lots of peeps and explore stuff and learn great things
-                 *Following Entrepreneurship and Spreading the knowledge
-                 *Be organized and investing in soft skills 
-                 *Lookforward to  Mental Clarity and Physical health
-                 *Eat , Learn and Move !
+- 🥅 2021 Goals:
+    * Finishing Projects End to End
+    *Collaborate with lots of peeps and explore stuff and learn great things
+    *Following Entrepreneurship and Spreading the knowledge
+    *Be organized and invest in soft skills 
+    *Look forward to  Mental Clarity and Physical health
+    *Eat, Learn and Move!
 
 - ⚡ Fun fact: I love to play Games and make ideas a reality 
-- I beleive in Learning by doing stuff
-- I beleive that the current Education system needs a whole revamp the current metric being used is dated and not an accurate measure of a person's skill and talent
+- I believe in Learning by doing stuff
+- I believe that the current education system needs a whole revamp. The current metric being used is dated and not an accurate measure of a person’s skill and talent
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently pursuing and exploring  AI, ML, DeepLearning, Cloud and NLP
+- 🌱 I’m currently pursuing and exploring  AI, ML, DeepLearning, Cloud, and NLP
 - 💬 Ask me about anything related to Gans/Pytorch/AI privacy
 - 📫 How to reach me: 
 [<img align="middle" alt="PriyanK7n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="PriyanK7n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-- ⚡ Fun fact: I :heart: :dog:s& Entrepeunership
+- ⚡ Fun fact: I :heart: :dog:s& Entrepreunership
  
 ### Connect with me:             
 
