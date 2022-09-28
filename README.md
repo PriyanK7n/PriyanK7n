@@ -1,18 +1,18 @@
-### Hi there, I’m Priyank  - aka [PriyanK7n]
-## I’m a Grad Student, Gamer, Developer, and a Blogger!👋
+### Hi there, I'm Priyank  - aka [PriyanK7n]
+## I'm a Grad Student, Gamer, Developer, and Blogger!👋
 
- > 🔭 📚 🌎 I am a first-year graduate student at the Boston University studying Electrical and Computer Engineering and taking up a Data Analystics Specialization👨‍💻. I completed my bachelor’s degree, focused in Electronics and Communication Engineering, in New Delhi, India 🇮🇳. 
+ > 🔭 📚 🌎 I am a first-year graduate student at the Boston University studying Electrical and Computer Engineering and taking up a Data Analytics Specialization👨‍💻. I completed my bachelor's degree, focused in Electronics and Communication Engineering, in New Delhi, India 🇮🇳. 
 
-> Throughout my undergraduate term of 4 years, I was actively involved in the ML and Data Science domain and gained technical experience through internships, global competitions, research work, and academic and community-aided projects. Apart from this, I have experience in leadership and volunteering positions in and outside of school. I find myself well in international and interdisciplinary Teams; I am also a team player in groups but am also very comfortable working independently.
+> Throughout my undergraduate term of 4 years, I was actively involved in the ML and Data Science domain. I gained technical experience through internships, global competitions, research work, and academic and community-aided projects. Apart from this, I have experience in leadership and volunteering positions in and outside of school. I find myself well in international and interdisciplinary Teams; I am also a team player in groups but am very comfortable working independently.
 
-> Being an AI enthusiast, I also enjoy exploring, researching topics, and leveraging AI skills that create entrepreneurial opportunities. I believe in learning by doing and remaining curious throughout the process. Privacy is crucial in this digital age, so people should utilize AI responsibly. I am also a big believer in the importance of Data Ethics in developing excellent AI systems and look forward to working with diverse people from interdisciplinary fields to create solutions that utilize data and make a societal impact.
+> Being an AI enthusiast, I enjoy exploring, researching topics, and leveraging AI skills that create entrepreneurial opportunities. I believe in learning by doing and remaining curious throughout the process. Privacy is crucial in this digital age, so people should utilize AI responsibly. I am also a big believer in the importance of Data Ethics in developing excellent AI systems and look forward to working with diverse people from interdisciplinary fields to create solutions that utilize data and make a societal impact.
 
 
-Some Things I'm intersted in this year FY2022 💖: 
-- Working End to End on interesting projects involving AI, healthcare & Privacy,exploring stuff together and learning new skills.
-- Following Entrepreneurship and Spreading the knowledge.
+Some Things I'm interested in this year FY2022 💖: 
+- Working End to End on exciting projects involving AI, healthcare & Privacy, exploring stuff together, and learning new skills.
+- Following Entrepreneurship and Spreading knowledge.
 - Being organized and investing in soft skills.
-- Looking forward to  Mental Clarity and Physical health.
+- I'm Looking forward to  Mental Clarity and Physical health.
 - Following this movement: *Eat, Learn and Move!*
     
 - 📫 How to reach me: 
@@ -34,7 +34,7 @@ Some Things I'm intersted in this year FY2022 💖:
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-```Blog Post ```- https://priyank7n.me
+"`Blog Post "`- https://priyank7n.me
 - [MediBot: The Conversational AI Healthcare Chatbot](https://priyank7n.me/nlp/dashboard/sentiment%20analysis/healthcare/chatbot/medibot/omdena/2022/06/09/Medi-Bot.html)
 
 - [SatFootprint: Foot Print Detection of Buildings in Satellite Images](https://priyank7n.me/2021/05/06/SatFoot.html)
