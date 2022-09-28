@@ -8,12 +8,12 @@
 > Being an AI enthusiast, I also enjoy exploring, researching topics, and leveraging AI skills that create entrepreneurial opportunities. I believe in learning by doing and remaining curious throughout the process. Privacy is crucial in this digital age, so people should utilize AI responsibly. I am also a big believer in the importance of Data Ethics in developing excellent AI systems and look forward to working with diverse people from interdisciplinary fields to create solutions that utilize data and make a societal impact.
 
 
-I am also intersted in these things in year FY2022 💖: 
-    - Working End to End on interesting projects involving AI, healthcare & Privacy,exploring stuff together and learning new skills.
-    - Following Entrepreneurship and Spreading the knowledge.
-    - Being organized and investing in soft skills.
-    - Looking forward to  Mental Clarity and Physical health.
-    - Following this movement: *Eat, Learn and Move!*
+Some Things I'm intersted in this year FY2022 💖: 
+- Working End to End on interesting projects involving AI, healthcare & Privacy,exploring stuff together and learning new skills.
+- Following Entrepreneurship and Spreading the knowledge.
+- Being organized and investing in soft skills.
+- Looking forward to  Mental Clarity and Physical health.
+- Following this movement: *Eat, Learn and Move!*
     
 - 📫 How to reach me: 
 [<img align="middle" alt="PriyanK7n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -36,9 +36,8 @@ I am also intersted in these things in year FY2022 💖:
 <!-- BLOG-POST-LIST:START -->
 ```Blog Post ```- https://priyank7n.me
 - [MediBot: The Conversational AI Healthcare Chatbot](https://priyank7n.me/nlp/dashboard/sentiment%20analysis/healthcare/chatbot/medibot/omdena/2022/06/09/Medi-Bot.html)
-- 
-- 
 
+- [SatFootprint: Foot Print Detection of Buildings in Satellite Images](https://priyank7n.me/2021/05/06/SatFoot.html)
 
 - [Reproducibillity Challenge 2020: Reformer, Our Team Experience](https://priyank7n.github.io/fastblogs/nlp/reformer/transformers/language-modelling/2021/02/19/reformer-reproducibility-challenge.html)		
  	
